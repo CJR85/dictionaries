@@ -19,6 +19,7 @@ peak["first_climbed"] = 1873
 peak["height"] = 14265
 
 # Add a "Verizon" to the "cell_reception" dict and set it equal to "good"
+peak["cell_reception"]["Verizon"] = "good"
 
 # You just summited the peak! Add your name to the "summit_log" list
 
