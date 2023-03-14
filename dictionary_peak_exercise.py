@@ -46,5 +46,6 @@ for k, v in peak.items():
 
 
 # A huge earthquake/meteor/forestfire/tsunami has destroyed the peak.  Please empty out the entire dictionary.
+peak.clear()
 print(peak)
 
