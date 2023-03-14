@@ -13,6 +13,7 @@ peak = {
 peak["range"] = "Elk Mountains"
 
 # Add a "first_climbed" key to peak and set it equal to 1873
+peak["first_climbed"] = 1873
 
 # Whoops, there's a mistake with the peak "height".  Update it to 14265
 
