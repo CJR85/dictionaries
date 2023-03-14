@@ -34,6 +34,8 @@ peak["elevation"] = el
 
 
 # Loop over the values in the dictionary and print them all out.  Don't ask why, just do it :) 
+for val in peak.values():
+    print(val)
 
 
 # Loop over the keys AND values in the dictionary and print them all out in the following format:
