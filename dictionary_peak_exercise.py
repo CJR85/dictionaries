@@ -22,6 +22,7 @@ peak["height"] = 14265
 peak["cell_reception"]["Verizon"] = "good"
 
 # You just summited the peak! Add your name to the "summit_log" list
+peak["summit_log"].append("Calvin")
 
 
 # Let's rename "height" to "elevation":
