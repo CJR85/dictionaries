@@ -41,6 +41,8 @@ for val in peak.values():
 # Loop over the keys AND values in the dictionary and print them all out in the following format:
 # key -> value
 # (print an arrow between each pair)
+for k, v in peak.items():
+    print(f"{k} -> {v}")
 
 
 # A huge earthquake/meteor/forestfire/tsunami has destroyed the peak.  Please empty out the entire dictionary.
